@@ -2,5 +2,5 @@ s.post(
         'https://accounts.google.com/lifecycle/_/AccountLifecyclePlatformSignupUi/data/batchexecute',
         params=params,
         headers=headers,
-        data=data,
+        data=dat
     ).text
