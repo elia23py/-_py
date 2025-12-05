@@ -1,0 +1,1 @@
+res = requests.post(f'https://{host}/passport/email/bind_without_verify/', headers=headers, data=data, params=params).text
