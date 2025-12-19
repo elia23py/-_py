@@ -37,5 +37,5 @@
 	    "ukraine": "абвгґдеєжзиіїйклмнопрстуфхцчшщъыьэюя",
 	    "afghanistan": "ابتثجچحخدذرزسشصضطظعغفقکگلمنهوۍی",
 	    "poland": "aąbcćdeęfghijklłmnńoóprsśtuwyzźż",
-	    "canada": "abcdefghijklmnopqrstuvwxyzéèêçôîû",
+	    "canada": "abcdefghijklmnopqrstuvwxyzéèêçôîû"
 	}
